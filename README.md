@@ -1,2 +1,2 @@
 自用
-for personal use
+(for personal use)
